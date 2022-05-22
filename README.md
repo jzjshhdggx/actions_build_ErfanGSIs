@@ -3,7 +3,7 @@
 ## 一个基于 Github Actions 制作的自动跑 ErfanGSIs 的脚本。 
 ### 步骤如下： 
 - 首先，fork 这个仓库。 
-- 接着，编辑 build_ErfanGSIs.yml 文件，把其中的 ROM_URL 改成你要做 gsi 的底包（注意直链）还有 ROM_NAME 改成你的 ROM 名称，BUILD_TYPE 改成 Aonly 或 AB。 
+- 接着，编辑 build_ErfanGSIs.yml 文件，把其中的 ROM_URL 改成你要做 gsi 的底包（注意直链）,还有 ROM_NAME 改成你的 ROM 名称，BUILD_TYPE 改成 Aonly 或 AB。 
 - 然后，按 Star 小星星就可以开始了！ 
 - 最后，在 Upload GSI 里展开，看 Download Link 链接，访问即可下载。 
 
